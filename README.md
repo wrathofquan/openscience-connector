@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Open Science and Reproducibility
 
-You can use the [editor on GitHub](https://github.com/wrathofquan/openscience-reproducibility-f18/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Fall 2018
+Instructor: Josh Quan, Amy Neeser, and Eric Van Dusen
+Email: joshua.quan@berkeley.edu
+Lecture: tbd
+Office Hours: tbd
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Course Description
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Calendar
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Grading
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Late Policy
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wrathofquan/openscience-reproducibility-f18/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Attendance
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Participation
+
+## Collaboration and Academic Honesty
+
+## Disability Accomodations
