@@ -9,9 +9,9 @@ Office Hours: tbd
 
 ## Course Description
 
-In a 2016 poll of 1,576 researchers by the [journal _Nature_](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970), "more than 70% have failed to reproduce another scientist's experiments and more than half have failed to reproduce their own experiments."
+In a 2016 poll of 1,576 researchers by the [journal _Nature_](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970), "more than 70% have failed to reproduce another scientist's experiments and more than half have failed to reproduce their own experiments." What has become known as the modern "replication crisis" began in the field of [Psychology](http://science.sciencemag.org/content/349/6251/aac4716) and has spread to many fields including: Economics, Medicine, Environmental Science, and others.
 
- In this course, Data Science students across domains (Psychology, Environmental Science, Economics, Information Science, History, etc.) will be introduced to concepts in scientific reproducibility and transparency through readings, case-studies, and hands-on lab activities. Students in the course will learn about the principles of doing open science, be able to create their own reproducible workflows, and learn how to use computational tools for reproducible data analysis(Jupyterhub, RStudio), version control and collaboration (Git/Github), Reporting (Markdown, Pandoc) and data archiving (Dataverse).
+ In this course, Data Science students across domains will be introduced to concepts in scientific reproducibility and transparency through readings, case-studies, and hands-on lab activities. Students in the course will learn about the principles of doing open science, be able to create their own reproducible workflows, and learn how to use computational tools for reproducible data analysis(Jupyterhub, RStudio), version control and collaboration (Git/Github), Reporting (Markdown, Pandoc) and data archiving (Dataverse).
 
 
 
