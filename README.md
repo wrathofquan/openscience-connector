@@ -25,14 +25,14 @@ In a 2016 poll of 1,576 researchers by the [journal _Nature_](https://www.nature
 | 2018-09-10 | _Provenance_ or "_How to know where this came from and what questions to ask_"; Git     |           |     |            |
 | 2018-09-17 | Project topics; Git      |           |     |            |
 | 2018-09-24 | Research project organization; Git    |           |     |            |
-| 2018-10-01 | Licensing      |           |     |            |
-| 2018-10-08 |  Data Archiving       |           |     |            |
-| 2018-10-15 |  Data Management Plans; Dataverse       |           |     |            |
-| 2018-10-22 | Dynamic documents; Rstudio/Shiny   |           |     |            |
+| 2018-10-01 | Open Source Licensing      |           |     |            |
+| 2018-10-08 | Archiving and Publishing; Project (1)      |           |     |            |
+| 2018-10-15 | Data Management Plans; Dataverse       |           |     |            |
+| 2018-10-22 | Dynamic documents & Visualization; Rstudio/Shiny   |           |     |            |
 | 2018-10-29 | Automation; Make   |           |     |            |
-| 2018-11-05 | Creating documentation; Reporting using Markdown, Pandoc, LateX      |           |     |            |
+| 2018-11-05 | Project (2); Creating documentation; Reporting using Markdown, Pandoc, LateX      |           |     |            |
 | 2018-11-12 | Presenting results; Reporting using Markdown, Pandoc, LateX      |           |     |            |
-| 2018-11-19 | Project presentation     |           |     |            |
+| 2018-11-19 | Final Project presentation     |           |     |            |
 
 
 ## Grading
@@ -49,4 +49,8 @@ In a 2016 poll of 1,576 researchers by the [journal _Nature_](https://www.nature
 
 ## Collaboration and Academic Honesty
 
-## Disability Accomodations
+Do your own work. Collaborating on homework is cool. Copying is not, nor is having somebody else submit assignments for you. Anyone found cheating will receive an F and will be reported to the Center for the Student Conduct.
+
+## Disability Accommodations
+
+If you need accommodations for any physical, psychological, or learning disability, please speak to me after class or during office hours. Please make arrangements in a timely manner (through DSP) so that I can make the appropriate accommodations.
