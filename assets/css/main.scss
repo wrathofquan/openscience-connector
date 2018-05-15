@@ -5,6 +5,7 @@
 
 @import "hydeout";
 
-.container> header h1, .container>header h2 {
+header h2 {
     display: none;
+    color: white;
 }
