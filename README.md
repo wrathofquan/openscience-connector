@@ -1,5 +1,3 @@
-## Open Science and Reproducibility  
-
 
 Fall 2018  
 Instructor: Josh Quan, Amy Neeser, and Eric Van Dusen  
