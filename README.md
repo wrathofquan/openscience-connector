@@ -1,4 +1,5 @@
 
+# Open Science & Reproducibility  
 Fall 2018  
 Instructor: Josh Quan, Amy Neeser, and Eric Van Dusen  
 Email: joshua.quan@berkeley.edu  
