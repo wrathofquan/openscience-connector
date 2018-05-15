@@ -1,5 +1,6 @@
 
 # Open Science & Reproducibility  
+
 Fall 2018  
 Instructor: Josh Quan, Amy Neeser, and Eric Van Dusen  
 Email: joshua.quan@berkeley.edu  
@@ -29,7 +30,7 @@ In a 2016 poll of 1,576 researchers by the [journal _Nature_](https://www.nature
 | 10-08 | Archiving and Publishing _and Publication Bias_; Project (1)      |           |     |            |
 | 10-15 | Data Management Plans; Dataverse       |           |     |            |
 | 10-22 | Dynamic documents & Visualization; Rstudio/Shiny   |           |     |            |
-| 10-29 | Automation; Make   |           |     |            |
+| 10-29 | Automation? Cloud?   |           |     |            |
 | 11-05 | Project (2); Creating documentation; Reporting using Markdown, Pandoc, LateX      |           |     |            |
 | 11-12 | Presenting results; Reporting using Markdown, Pandoc, LateX      |           |     |            |
 | 11-19 | Final Project presentation     |           |     |            |
