@@ -1,4 +1,5 @@
-# Open Science and Reproducibility
+## Open Science and Reproducibility  
+
 
 Fall 2018  
 Instructor: Josh Quan, Amy Neeser, and Eric Van Dusen  
@@ -7,7 +8,7 @@ Lecture: tbd
 Office Hours: tbd  
 
 
-## Course Description
+### Course Description
 
 In a 2016 poll of 1,576 researchers by the [journal _Nature_](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970), "more than 70% have failed to reproduce another scientist's experiments and more than half have failed to reproduce their own experiments."  What has become known as the modern "replication crisis" began in the field of [Psychology](http://science.sciencemag.org/content/349/6251/aac4716) as a series of replication studies and has spread to many fields including: Economics, Medicine, Political Science, Physics, Environmental Science, and others.
 
@@ -15,7 +16,7 @@ In a 2016 poll of 1,576 researchers by the [journal _Nature_](https://www.nature
 
 
 
-## Calendar
+### Calendar
 
 | Date       | Topic | Resources | Lab | Assignment |
 |------------|-------|-----------|-----|------------|
@@ -35,22 +36,22 @@ In a 2016 poll of 1,576 researchers by the [journal _Nature_](https://www.nature
 | 11-19 | Final Project presentation     |           |     |            |
 
 
-## Grading
+### Grading
 
 
 
-## Late Policy
+### Late Policy
 
 
-## Attendance
+### Attendance
 
 
-## Participation
+### Participation
 
-## Collaboration and Academic Honesty
+### Collaboration and Academic Honesty
 
 Do your own work. Collaborating on homework is cool. Copying is not, nor is having somebody else submit assignments for you. Anyone found cheating will receive an F and will be reported to the Center for the Student Conduct.
 
-## Disability Accommodations
+### Disability Accommodations
 
 If you need accommodations for any physical, psychological, or learning disability, please speak to me after class or during office hours. Please make arrangements in a timely manner (through DSP) so that I can make the appropriate accommodations.
