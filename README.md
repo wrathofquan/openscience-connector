@@ -22,7 +22,7 @@ In a 2016 poll of 1,576 researchers by the [journal _Nature_](https://www.nature
 |------------|-------|-----------|-----|------------|
 | 08-20 | Introduction     |           |     |            |
 | 08-27 | Why Open Science?; Jupyter       |           |     |            |
-| 09-03 | Reproducible Data Workflows; Jupyter       |           |     |            |
+| 09-03 | Reproducible Data Workflows; Jupyter       |  [Best Practices for Computational Science: Software Infrastructure and Environments for Reproducible and Extensible Research](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.ay/)        |     |            |
 | 09-10 | _Provenance_ or "_How to know where this came from and what questions to ask_"; Git     |           |     |            |
 | 09-17 | Project topics; Git      |           |     |            |
 | 09-24 | Research project organization; Git    |           |     |            |
