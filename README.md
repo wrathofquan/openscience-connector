@@ -27,7 +27,7 @@ In a 2016 poll of 1,576 researchers by the [journal _Nature_](https://www.nature
 | 09-17 | Project topics; Git      |           |     |            |
 | 09-24 | Research project organization; Git    |           |     |            |
 | 10-01 | Open Source Licensing      |           |     |            |
-| 10-08 | Archiving and Publishing _and Publication Bias_; Project (1)      |           |     |            |
+| 10-08 | Archiving and Publishing _and Publication Bias_; Project (1)      | [The Existence of Publication Bias and Risk Factors for its Occurrence](https://jamanetwork.com/journals/jama/article-abstract/380963) <br> <br> [Publication Bias in the Social Sciences: Unlocking the file drawer](http://science.sciencemag.org/content/345/6203/1502)  <br> <br> [Identifying outcome reporting bias in randomised trials on PubMed: review of publications and survey of authors](https://www.bmj.com/content/330/7494/753.abstract)      |     |            |
 | 10-15 | Data Management Plans; Dataverse       |           |     |            |
 | 10-22 | Dynamic documents & Visualization; Rstudio/Shiny   |           |     |            |
 | 10-29 | Automation? Cloud?   |           |     |            |
