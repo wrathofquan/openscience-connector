@@ -22,7 +22,7 @@ In a 2016 poll of 1,576 researchers by the [journal _Nature_](https://www.nature
 | Date       | Topic | Resources | Lab | Assignment |
 |------------|-------|-----------|-----|------------|
 | 08-20 | Introduction     | [Science is "show me", not "trust me"](https://www.bitss.org/2015/12/31/science-is-show-me-not-trust-me/)          |     |            |
-| 08-27 | Why Open Science?; Jupyter       |  ["How computers broke science – and what we can do to fix it"](https://theconversation.com/how-computers-broke-science-and-what-we-can-do-to-fix-it-49938)   <br> <br> [Assessing Reproducibility](https://www.practicereproducibleresearch.org/core-chapters/2-assessment.html)      |     |            |
+| 08-27 | Why Open Science?; Jupyter       |  [How computers broke science – and what we can do to fix it](https://theconversation.com/how-computers-broke-science-and-what-we-can-do-to-fix-it-49938)   <br> <br> [Science isn't broken](https://fivethirtyeight.com/features/science-isnt-broken/#part1) <br> <br> [Assessing Reproducibility](https://www.practicereproducibleresearch.org/core-chapters/2-assessment.html)      |     |            |
 | 09-03 | Reproducible Data Workflows; Jupyter       |  [Best Practices for Computational Science: Software Infrastructure and Environments for Reproducible and Extensible Research](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.ay/) <br> <br> [The Basic Reproducible Workflow Template](https://www.practicereproducibleresearch.org/core-chapters/3-basic.html)  <br> <br> [Ten Simple Rules for Reproducible Computational Research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)     |     |            |
 | 09-10 | _Provenance_ or "_How to know where this came from and what questions to ask_"; Git     |  ["We Used Broadband Data We Shouldn’t Have — Here’s What Went Wrong"](https://fivethirtyeight.com/features/we-used-broadband-data-we-shouldnt-have-heres-what-went-wrong/)   <br><br>   ["If these data could talk"](https://www.nature.com/articles/sdata2017114)  <br><br> [The Reinhart and Rogoff Error](https://www.newyorker.com/news/john-cassidy/the-reinhart-and-rogoff-controversy-a-summing-up)     |     |            |
 | 09-17 | Project topics; Git      |           |     |            |
@@ -32,7 +32,7 @@ In a 2016 poll of 1,576 researchers by the [journal _Nature_](https://www.nature
 | 10-15 | Data Management Plans; Dataverse       |           |     |            |
 | 10-22 | Privacy and Security   |           |     |            |
 | 10-29 | Automation? Cloud?   | [A Reproducible R Notebook Using Docker](https://www.practicereproducibleresearch.org/case-studies/cboettig.html)          |     |            |
-| 11-05 | Project (2); Creating documentation; Reporting using Markdown, Pandoc, LateX      |           |     |            |
+| 11-05 | Project (2); Creating documentation; Reporting using Markdown, Pandoc, LateX      |   [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)        |     |            |
 | 11-12 | Presenting results; Reporting using Markdown, Pandoc, LateX      |           |     |            |
 | 11-19 | Final Project presentation     |           |     |            |
 
